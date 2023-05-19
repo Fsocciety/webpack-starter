@@ -1,1 +1,1 @@
-# webpack-starter
+# restaurant-page
